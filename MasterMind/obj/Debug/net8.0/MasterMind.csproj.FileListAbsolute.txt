@@ -1,0 +1,14 @@
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\bin\Debug\net8.0\MasterMind.exe
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\bin\Debug\net8.0\MasterMind.deps.json
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\bin\Debug\net8.0\MasterMind.runtimeconfig.json
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\bin\Debug\net8.0\MasterMind.dll
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\bin\Debug\net8.0\MasterMind.pdb
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.AssemblyInfo.cs
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.dll
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\refint\MasterMind.dll
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.pdb
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\MasterMind.genruntimeconfig.cache
+C:\Users\Morayfij\source\repos\MasterMind\MasterMind\obj\Debug\net8.0\ref\MasterMind.dll
